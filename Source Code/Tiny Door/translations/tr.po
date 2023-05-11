@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.DESC
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.DESC"
+msgid "Tiny Door, fitted for very tiny duplicant."
+msgstr "Minik Kapı, çok küçük kopyalar için uygundur."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.EFFECT
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.EFFECT"
+msgid "Encloses areas without blocking <link=\"ELEMENTSLIQUID\">Liquid</link> or <link=\"ELEMENTSGAS\">Gas</link> flow.\n\nWild <link=\"CRITTERS\">Critters</link> cannot pass through doors."
+msgstr ""
+"Alanları <link=\"ELEMENTSLIQUID\">Sıvı</link> veya "
+"<link=\"ELEMENTSGAS\">Gaz</link> akışını engellemeden konumlanır.\n"
+"\n"
+"Yabani <link=\"CRITTERS\">Yaratıklar</link> kapılardan geçemez."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.NAME
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYDOOR.NAME"
+msgid "<link=\"TINYDOOR\">Tiny Pneumatic Door</link>"
+msgstr "<link=\"TINYDOOR\">Küçük Havalı Kapı</link>"
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.DESC
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.DESC"
+msgid "Tiny Manual Airlocks fitted for very tiny duplicant."
+msgstr "Çok küçük kopyalar için Minik Manuel Hava Kilitleri takılmıştır."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.EFFECT
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.EFFECT"
+msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nWild <link=\"CRITTERS\">Critters</link> cannot pass through doors."
+msgstr ""
+"Alanlar arasındaki basıncı koruyarak <link=\"ELEMENTSLIQUID\">Sıvı</link> ve "
+"<link=\"ELEMENTSGAS\">Gaz</link> akışını engeller.\n"
+"\n"
+"Yabani <link=\"CRITTERS\">Yaratıklar</link> kapılardan geçemez."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.NAME
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYMANUALPRESSUREDOOR.NAME"
+msgid "<link=\"TINYMANUALPRESSUREDOOR\">Tiny Manual Airlock</link>"
+msgstr "<link=\"TINYMANUALPRESSUREDOOR\">Küçük Manuel Hava Kilidi</link>"
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.DESC
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.DESC"
+msgid "Tiny Mechanized Airlocks fitted for very tiny duplicant."
+msgstr "Çok küçük kopyalar için Minik Mekanize Hava Kilitleri takılmıştır."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.EFFECT
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.EFFECT"
+msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nFunctions as a <link=\"TINYMANUALPRESSUREDOOR\">Manual Airlock</link> when no <link=\"POWER\">Power</link> is available.\n\nWild <link=\"CRITTERS\">Critters</link> cannot pass through doors."
+msgstr ""
+"Alanlar arasındaki basıncı koruyarak <link=\"ELEMENTSLIQUID\">Sıvı</link> ve "
+"<link=\"ELEMENTSGAS\">Gaz</link> akışını engeller.\n"
+"\n"
+"<link=\"POWER\">Güç</link> mevcut olmadığında "
+"<link=\"TINYMANUALPRESSUREDOOR\">Manuel Hava Kilidi</link> olarak işlev görür.\n"
+"\n"
+"Yabani <link=\"CRITTERS\">Yaratıklar</link> kapılardan geçemez."
+
+#. TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.NAME
+msgctxt "TinyDoorsMod.STRINGS.BUILDINGS.PREFABS.TINYPRESSUREDOOR.NAME"
+msgid "<link=\"TINYPRESSUREDOOR\">Tiny Mechanized Airlock</link>"
+msgstr "<link=\"TINYPRESSUREDOOR\">Küçük Mekanize Hava Kilidi</link>"
